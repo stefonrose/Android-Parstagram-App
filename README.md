@@ -39,7 +39,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Walkthrough](parstagram-part1.1.gif)
+![Walkthrough 1](parstagram-part1.1.gif)
+![Walkthrough 2](parstagram-part1.2.gif)
 
 ## Notes
 
